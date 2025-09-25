@@ -1,4 +1,5 @@
-export const BASE_URL = "http://localhost:8084/api/v1.0";
+export const BASE_URL =
+  "https://budget-baba-api-hpe5ehfmfbc5h3fa.eastus-01.azurewebsites.net/api/v1.0";
 export const CLOUDINARY_CLOUD_NAME = "dcadhcqkx";
 
 export const API_ENDPOINTS = {
